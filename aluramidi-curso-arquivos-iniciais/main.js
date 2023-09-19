@@ -43,4 +43,5 @@ function tocaSomTom(){
     document.querySelector('tecla_pom').onclick = tocaSomTom;
 }
 
+document.querySelectorAll('.tecla')
 
